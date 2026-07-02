@@ -1,0 +1,32 @@
+# Movie Recommendation System
+
+## Project Description
+This project recommends Telugu movies based on similar genres using a content-based recommendation system.
+
+## Technologies Used
+- Python
+- Pandas
+- Scikit-learn
+
+## Algorithm
+- CountVectorizer
+- Cosine Similarity
+
+## Dataset
+Custom Telugu movie dataset.
+
+## Features
+- User enters a movie name.
+- System recommends similar Telugu movies.
+- Fast and simple recommendation system.
+
+## How to Run
+
+Install libraries:
+
+pip install pandas
+pip install scikit-learn
+
+Run:
+
+python movie_recommendation.py
